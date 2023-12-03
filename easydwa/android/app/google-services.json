@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "500290421800",
+    "project_id": "easydwa-5a05d",
+    "storage_bucket": "easydwa-5a05d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500290421800:android:3fa4ee499d6f40fe4fe11d",
+        "android_client_info": {
+          "package_name": "com.example.easydwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500290421800-7dddetq5nbpa3ualusockgm5kci52hfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easydwa",
+            "certificate_hash": "ec435bc39b04aadfcd648914e8b8abc7f3d496ac"
+          }
+        },
+        {
+          "client_id": "500290421800-hfb0f6ijdnpofe62bg6tjoevu5vcub2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDG2nV5f0V8mvsNifLsRwEqZrVU0qxd9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500290421800-hfb0f6ijdnpofe62bg6tjoevu5vcub2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
